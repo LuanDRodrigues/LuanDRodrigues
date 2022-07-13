@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @LuanDRodrigues
-- 👀 I’m interested in listening code.
-- 🌱 I’m currently learning Javascript, Java an Python.
-- 💞️ I’m looking to collaborate on nothing Still.
+Olá, primeiramente obrigado pela visita!!
 
-<!---
-LuanDRodrigues/LuanDRodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Este repositório dis respeito aos projetos elaborados por mim.
+Sou estudante de Engenharia e entusiata da tecnologia, deixo aqui registrado as atividades relacionadas a programação e análise de dados.
